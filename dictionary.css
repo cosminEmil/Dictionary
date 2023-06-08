@@ -1,0 +1,23 @@
+#search_Text-Box {
+    position:absolute;
+    top: 30%;
+    left: 35%;
+}
+
+#add_Text-Box {
+    position: absolute;
+    top: 35%;
+    left: 35%;
+}
+
+#searchButton {
+    position: absolute;
+    top: 30%;
+    left: 48%;
+}
+
+#addButton {
+    position: absolute;
+    top: 35%;
+    left: 48%;
+}
